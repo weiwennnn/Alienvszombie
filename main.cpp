@@ -1281,7 +1281,6 @@ void up(const string &command, int column, int row)
 void down(const string &command, int column, int row)
 {
     y1 = y1 - 1;
-    cout << "return back\t"  << y1 << endl;
 
     if(y1 <= 0)
     {
@@ -1305,7 +1304,6 @@ void down(const string &command, int column, int row)
 void left(const string &command, int column, int row)
 {
     x1 = x1 - 1;
-    cout << "return back\t"  << x1 << endl;
 
     if(x1 <= 0)
     {
