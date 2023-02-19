@@ -7,7 +7,7 @@ You may add one signature screenshot of your program here or above the title. Ch
 
 (Screenshot (https://ibb.co/FsNJKHj, "Alien vs Zombie"
 
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+Please provide the YouTube link to your [Video Demo](https://www.youtube.com/watch?v=4cRI8nBFi1E).
 
 ## Compilation Instructions
 
