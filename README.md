@@ -5,7 +5,7 @@ Alien vs Zombie is a turn-based combat game in which the player controls Alien t
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
 
-![Alt text](Screenshot (https://ibb.co/FsNJKHj, "Alien vs Zombie")https://imgbb.com/
+(Screenshot (https://ibb.co/FsNJKHj, "Alien vs Zombie"
 
 Please provide the YouTube link to your [Video Demo](https://youtube.com).
 
