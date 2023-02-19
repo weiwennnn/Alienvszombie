@@ -21,36 +21,32 @@ List all the features completed.
 9. Game detail 3: Alien's attack will clear to 0 at next turn if player not decided to attack zombie.
 10. Quit functions while still in play.
 
-
-
 ## Additional Features
 
-NONE.
-
+-
 
 ## Contributions
 
-
 ### HEE_KAI_WEN
 
-1. Main Menu (Editable setting: ONLY accept odd numbers for the column and row.)
-2. Create Game board based on the setting.
+1. Game Board.
+2. Multiple Zombies.
 3. Zombie movement and attack behaviour. 
-4. Objects functions.
+4. Alien target to attack closest zombie when found a pod.
 
 ### LEE_WEI_WEN
 
 1. Random items appear on the map.
-2. Alien appear in the midddle of the map.
+2. Aliean appear in the midddle of the map.
 3. SAVE function.
 4. Alien's health and attack behaviour.
 
 ### TAI_JIN_PEI
 
-1. Game Controls (Help function)
-2. QUIT function.
+1. Game Controls.
+2. Game Objects.
 3. LOAD function.
-4. Alien target to attack closest zombie when found a pod.
+4. QUIT function.
 
 ## Problems Encountered & Solutions
 
