@@ -15,21 +15,25 @@ Provide instructions on how to compile your program, especially when it is non-t
 
 For example:
 
-```
-g++ main.cpp folder1\code.cpp folder2\code.cpp ......
-```
+1）Create a new folder and open it.
+2) Create a new main.cpp file.
+3) Copy and paste the codes from  https://github.com/weiwennnn/Alienvszombie main.cpp file using Visual Studio Code.
+4) Run without debugging the program and a main.exe will be created.
+5) Open the filed created and open the main.exe file.
+6) Enjoy the game!
 
 ## User Manual
 
-1) Run the programme using visual studio code.
-2) Then the programme will create an application with the same name of the programme.
-3) Open application to play for better experience.
-4) At the beginning, you can choose either change the game settings or not.
-5) If yes, you can customize numbers of row, column and zombie. Reminder: row and columns number must be odd number and zombies cannot less than 0 and more than 9.
-6) If no, the game will remain default settings: rows=9, column=5, zombie=1.
-7) After settings, you're now start playing Alien vs Zombie.
-8) Enter commands to control Alien and game settings, you can type "help" for to check commands value.
-
+Run the programme using command prompt
+The programme will start with showing the default game setting.
+User can choose either remain the default setting or change the setting.
+User start game by giving the command: up, down, left, right, to control the activity of Alien
+User give the command game object arrow to change the direction of user. 6）User can interact with other game objects inside the game board such as health(h), pod(p), rock(r), empty( ),trail(.)
+Alien and Zombie hava random life and attack at the beginning of the game.
+Alien's attack always starts from zero at each run and only will be accumulated by collecting the arrow object(same next run be zero attack).
+Zombie has range attribute to defines how far Zombie's attack can reach.
+The game over when the situation that either Alien die(life = 0) or Zombie die.
+During playing, user can choose to save the game for next time play.
 
 
 Please DO NOT change the Progress Log below. Leave it as it is.
@@ -44,3 +48,5 @@ Please DO NOT change the Progress Log below. Leave it as it is.
 - HEE_KAI_WEN
 - LEE_WEI_WEN
 - TAI_JIN_PEI
+
+
